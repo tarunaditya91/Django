@@ -11,6 +11,11 @@ draw your project in a pice of paper and list out all the features on that for y
 ![img3_web](https://github.com/tarunaditya91/Django/assets/113850656/ffa3cb34-56b9-4d3b-8a75-27a02ceb62ac)
 
 
+# Desiging in figma 
+
+![image](https://github.com/tarunaditya91/Django/assets/113850656/7ea6c89e-9239-4c97-b9a8-9161af63db3f)
+
+
 
 
 
